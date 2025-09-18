@@ -1,6 +1,6 @@
 # KCOR (Kirsch Cumulative Outcomes Ratio) - Visual Guide
 
-This document provides a comprehensive visual and geometric illustration of the KCOR methodology for analyzing relative mortality risk between vaccination groups.
+This document provides a comprehensive visual and geometric illustration of the KCOR method for analyzing relative mortality risk between vaccination groups.
 
 ## Overview
 
@@ -84,7 +84,7 @@ Where:
 
 ![Complete KCOR Illustration](KCOR_complete_methodology_illustration.png)
 
-This comprehensive view shows all four steps of the KCOR methodology side-by-side, demonstrating how raw mortality data is transformed into the final KCOR risk assessment.
+This comprehensive view shows all four steps of the KCOR method side-by-side, demonstrating how raw mortality data is transformed into the final KCOR risk assessment.
 
 ## Key Mathematical Formulations
 
@@ -170,7 +170,7 @@ These results demonstrate a **dose-dependent accelerating mortality pattern**, p
 
 ## Validation and Robustness
 
-The KCOR methodology has been validated through:
+The KCOR method has been validated through:
 
 1. **Independent Methods**: GLM, DS-CMRR, Kaplan-Meier analysis show consistent results
 2. **Negative Controls**: Shows no false signals even with cohorts of different age compositions  
@@ -179,9 +179,9 @@ The KCOR methodology has been validated through:
 
 ## Conclusion
 
-KCOR provides a robust, mathematically rigorous method for assessing the net benefit or harm of medical interventions using observational data. Its visual methodology makes the analysis transparent and verifiable, while its statistical foundation ensures accurate risk assessment.
+KCOR provides a robust, mathematically rigorous method for assessing the net benefit or harm of medical interventions using observational data. Its visual method makes the analysis transparent and verifiable, while its statistical foundation ensures accurate risk assessment.
 
-The method's ability to create "virtual randomization" from observational data represents a significant advance in epidemiological methodology, particularly for answering policy-relevant questions about intervention safety and efficacy.
+The method's ability to create "virtual randomization" from observational data represents a significant advance in epidemiological method, particularly for answering policy-relevant questions about intervention safety and efficacy.
 
 ---
 
