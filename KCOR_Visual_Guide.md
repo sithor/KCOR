@@ -10,7 +10,7 @@ KCOR (Kirsch Cumulative Outcomes Ratio) is a statistical method that enables obj
 
 ## Flowchart of Method
 
-![KCOR Methodology Flowchart](KCOR_methodology_flowchart.png)
+![KCOR Method Flowchart](KCOR_methodology_flowchart.png)
 
 The KCOR method follows a systematic 4-step process:
 
@@ -80,7 +80,7 @@ Where:
 - KCOR > 1.0: Higher mortality risk in vaccinated group  
 - KCOR < 1.0: Lower mortality risk in vaccinated group
 
-## Complete Methodology Illustration
+## Complete Illustration of Method
 
 ![Complete KCOR Illustration](KCOR_complete_methodology_illustration.png)
 

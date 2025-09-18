@@ -1,6 +1,6 @@
 # KCOR (Kirsch Cumulative Outcomes Ratio) Visual Illustration
-# This script creates geometric and visual illustrations of the KCOR methodology
-# based on the methodology described in README.md
+# This script creates geometric and visual illustrations of the KCOR method
+# based on the method described in README.md
 
 # Load required libraries
 library(ggplot2)
@@ -267,7 +267,7 @@ create_kcor_plot <- function(data) {
   return(combined)
 }
 
-# Create KCOR methodology flowchart
+# Create KCOR method flowchart
 create_methodology_flowchart <- function() {
   # Create a simple flowchart showing the 4 main steps
   library(grid)
@@ -276,7 +276,7 @@ create_methodology_flowchart <- function() {
   p <- ggplot() + 
     xlim(0, 10) + ylim(0, 10) +
     theme_void() +
-    labs(title = "KCOR Methodology Flowchart",
+    labs(title = "KCOR Flowchart",
          subtitle = "Four-Step Process for Mortality Risk Assessment")
   
   # Add boxes and text for each step
@@ -376,7 +376,7 @@ cat("- KCOR_methodology_flowchart.png\n")
 cat("- KCOR_complete_methodology_illustration.png\n")
 
 # Print key insights
-cat("\n=== KEY KCOR METHODOLOGY INSIGHTS ===\n")
+cat("\n=== KEY KCOR METHOD INSIGHTS ===\n")
 cat("1. SMOOTHING: 8-week centered moving average reduces noise in raw mortality data\n")
 cat("2. SLOPE NORMALIZATION: Adjusts for baseline mortality trends: MR_adj(t) = MR(t) × exp(-r(t-t₀))\n")
 cat("3. HAZARD TRANSFORM: Converts to discrete hazard functions for mathematical exactness\n")
